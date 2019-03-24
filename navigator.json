@@ -1,0 +1,36 @@
+{
+  "navigatorItems":[
+    {
+      "name":"Home",
+      "link":""
+    },
+    {
+      "name":"FAQ",
+      "link":""
+    },
+    {
+      "name":"How to use",
+      "link":""
+    },
+    {
+      "name":"Get a Free VPN",
+      "link":""
+    },
+    {
+      "name":"Contact us",
+      "link":""
+    },
+    {
+      "name":"About",
+      "link":""
+    },
+    {
+      "name":"Download our Android App",
+      "link":""
+    },
+    {
+      "name":"Referal program",
+      "link":""
+    }
+  ]
+}
